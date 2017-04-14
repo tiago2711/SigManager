@@ -1,0 +1,11 @@
+insert into _user(username,email,senha) VALUES ('lucas.santiago','lucas@gmail.com','"202cb962ac59075b964b07152d234b70"');
+
+insert into _news(title,text_news,autor,img,destaque)VALUES ('Empresas aéreas da Austrália estão banindo o Galaxy Note 7 de seus voos','Com um número tão absurdo de incidentes, poucos devem questionar que não é uma boa ideia continuar andando com seu Galaxy Note 7 por aí, seja deixando-o em seu bolso ou em sua casa. Certas pessoas, porém, ainda insistem em correr riscos com o aparelho, achando que levar seu phablet novinho para dentro de um avião lotado de pessoas.
+Algumas empresas aéreas, por sua vez, estão tomando medidas mais drásticas para evitar incidentes com o Galaxy Note 7. Assim, elas estão “banindo” os aparelhos de seus voos, pedindo que os donos do phablet não deixem o dispositivo ligado ou mesmo carregando dentro dos aviões.
+Publicidade
+
+Segundo o jornal Reuters, três companhias aéreas australianas já colocaram o banimento do aparelho em ação: a Qantas, a Jetstar e a Virgin Australia. Nenhuma delas, vale notar, teria feito isso por ordem de uma autoridade ou órgão regulatório de aviação no território, mas sim como uma medida de segurança tomada por conta própria após o recall da Samsung.
+Banido também nos EUA?
+É importante notar que essa ação só ocorreu, por enquanto, no território australiano. Nos EUA, por exemplo, companhias como a Alaska Airlines, Southwest Airlines e American Airlines  ainda não tinham qualquer plano para o banimento do aparelho. Isso não quer dizer, entretanto, que uma ação para evitar maiores acidentes não possa ocorrer por lá.
+De fato, a Federação Administrativa de Aviação (FAA) dos EUA já estaria estudando a possibilidade de banir por completo o Galaxy Note 7 de voos feito por companhias aéreas no país. Em uma declaração ao Gizmodo, o órgão é claro: se o dispositivo passou por um recall, tanto os funcionários dos voos quanto os passageiros não devem poder carregar o phablet ainda não “corrigido” pela Samsung, seja com eles mesmos ou na bagagem.
+Até o momento, não houve qualquer declaração oficial para que o banimento realmente entre em operação. Mas, considerando a postura atual da empresa e o número cada vez maior de incidentes envolvendo o aparelho, é provável que isso realmente ocorra em breve.','FONTE(S)REUTERS/KIM HONG-JIGIZMODO/MATT NOVAK','1.jgp',true);

@@ -1,0 +1,16 @@
+“Serial Hacker” faz sua sétima vítima e furta mais de um milhão de credenciais.
+Na quarta-feira passada, a desenvolvedora de jogos Funcom confirmou o furto de mais de um milhão de credenciais de usuários de seu fórum oficial.
+
+
+ 
+O ataque pode ter sido obra do “serial hacker”, criminoso ainda não identificado que vem atacado sistematicamente sites de jogos para roubo de informações.
+
+De acordo com a Funcom, dados de usuários dos fóruns dos MMOs Age of Conan, The Secret World e Anarchy Online, assim como da franquia de adventures The Longest Journey foram comprometidos. Informações como endereços de e-mail, senhas encriptadas e nomes de usuários de 1.037.622 contas foram vazadas. A própria desenvolvedora admite que a criptografia das senhas pode ser quebrada e que elas devem ser consideradas por suas vítimas como inseguras.
+
+Embora não seja possível afirmar com certeza que todos os sete ataques identificados até agora tenham sido realizados pelo mesmo indivíduo, as circunstâncias apresentam uma estranha similaridade. Em todas as invasões, foi explorada uma vulnerabilidade antiga do vBulletin, programa utilizado para as operações dos fóruns, explorada através de um ataque de SQL Injection.
+
+Segundo a Funcom, a falha de segurança foi corrigida em seus sistemas em 19 de Agosto, mas seus administradores acreditam que a invasão tenha ocorrido anteriormente. Até agora, foram realizados ataques bem-sucedidos contra o fórum oficial de Dota 2, o portal DLH.net, o fórum do jogo móvel Clash of Kings, o fórum da desenvolvedora Epic Games, o site Gamesforum.com e o portal administrado por fãs GTAgaming.com.
+
+Na maioria dos casos, o ataque foi descoberto dias, semanas ou mesmo meses após a invasão, então é possível que outros incidentes parecidos venham à tona. Segundo a contagem atualizada, o criminoso já teria em mãos mais de 9.3 milhões de credenciais furtadas. Com a prática não-recomendada dos usuários de reutilização de senhas e e-mails em outros serviços, podemos esperar uma longa temporada de invasões pela frente.
+
+Via: Código Fonte.

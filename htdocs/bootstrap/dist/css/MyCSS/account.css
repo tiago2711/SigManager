@@ -1,0 +1,25 @@
+/*CARD DOS PLANOS*/
+.demo-card-wide.mdl-card {
+    width: 250px;
+    height: 500px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: rgb(255,193,7); /*center / cover*/;
+}
+
+.demo-card-wide > .mdl-card__menu {
+    color: #fff;
+}
+
+.cards_price{
+    margin-top: 5% !important;
+}
+
+
+
+
+
